@@ -1,0 +1,45 @@
+
+
+Week 1 --> DESIGN ERD / SKEMA DATABASE
+
+--> 3 HARI
+
+Week2 --> BACKEND
+
+--> Kelar sebelum Weekend
+
+Week3 --> FRONTEND
+
+--> Frontend
+
+Week4 --> Testing / Nambah fitur
+
+--> Frontend
+
+
+Presentasi
+
+
+Setup Repository
+
+1. Create Organizations di Github
+2. Create 2 repository FE dan BE
+3. Invite seluruh team member
+4. Setup repo BACKEND
+5. Setup repo FRONTEND
+
+
+
+// REPO
+1. Pilih team leader masing2
+2. team leader yang setup, sendirian
+3. Setup model, migrations (table dan fieldnya), struktur folder dan files
+4. Baru member lain boleh mengerjakan.
+
+
+Pembagian fitur
+
+1. Setiap team member membuat branch baru --> feature/title
+2. Pull request ke branch default (development)
+3. Team Leader harus review codenya
+4. Kalo udah approved --> Merge
